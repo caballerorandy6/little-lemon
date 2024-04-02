@@ -1,7 +1,7 @@
 import "./index.css";
 
 function App() {
-  return <></>;
+  return <div>Homepage</div>;
 }
 
 export default App;
